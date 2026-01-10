@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs ,Spring Boot**
 
-- 👯 I’m looking to collaborate on [Colesera pvt ltd](https://www.colesera.com/)
+- 👯 I have Worked with [Colesera pvt ltd](https://www.colesera.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GauravDiware?tab=repositories](https://github.com/GauravDiware?tab=repositories)
 
