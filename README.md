@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="gauravdiware" /></a> </p>
 
-- 🌱 I’m currently learning **React,Nodejs ,Spring Boot**
+- 🌱 I’m currently learning **React,Nodejs,Java,Spring Boot**
 
 - 👯 I have Worked with [Colesera pvt ltd](https://www.colesera.com/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/GauravDiware/" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="415612" height="30" width="40" /></a>
+<a href="[https://github.com/GauravDiware/](https://www.linkedin.com/in/gaurav-rajendra-diware-32b2793a9/)" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="415612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
