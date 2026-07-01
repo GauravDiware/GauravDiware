@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Diware</h1>
-<h3 align="center">Web dev crafting fast, scalable digital experiences. React, Node.js,.Let’s build something impactful 🚀</h3>
+<h3 align="center">Web dev crafting fast, scalable digital experiences. Java ,SpringBoot ,React, Node.js,.Let’s build something impactful 🚀</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdiware&label=Profile%20views&color=0e75b6&style=flat" alt="gauravdiware" /> </p> -->
 
